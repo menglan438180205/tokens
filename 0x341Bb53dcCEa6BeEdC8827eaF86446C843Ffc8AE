@@ -1,0 +1,19 @@
+{undefined
+ 
+"name": "MST",
+ 
+"website": "https://metaswaptoken.io",
+
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+
+ "explorer": "https://bscscan.com/token/0x341Bb53dcCEa6BeEdC8827eaF86446C843Ffc8AE",
+ "type": "BEP20",
+
+ "symbol": "MST",
+
+ "decimals": 6,
+ 
+"status": "active",
+
+ "id": "0x341Bb53dcCEa6BeEdC8827eaF86446C843Ffc8AE"
+}
